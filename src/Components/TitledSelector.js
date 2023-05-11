@@ -13,6 +13,9 @@ const Select = styled.select`
     background-color: #F8FAFC;
     color: #666787;
 
+    margin-top: 8px;
+    margin-bottom: 8px;
+    
     &:hover {
         background-color: #D9E2EFB8;
     }

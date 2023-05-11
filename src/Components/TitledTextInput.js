@@ -9,6 +9,8 @@ const Input = styled.input`
     &:hover {
         background-color: #D9E2EFB8;
     }
+    margin-top: 8px;
+    margin-bottom: 8px;
 `;
 
 function TitledTextInput({title, def}) {
